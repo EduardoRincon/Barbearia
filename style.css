@@ -1,16 +1,18 @@
-.titulo-pricipal{
-  padding-left: 30px ;
+.titulo-principal{
+  padding-left: 30px;
 }
 
 .principal{
   background-color: #CCCCCC;
   padding: 30px;
 }
-.titulo centralizado{
+
+.titulo-centralizado{
   text-align: center;
 }
+
 p {
-text-aglin: center;/
+  text-align: center;
 }
 
 #missao{
@@ -18,7 +20,7 @@ text-aglin: center;/
 }
 
 em strong{
-  color: goldenrod;
+  color: crimson;
 }
 
 #banner{
@@ -32,7 +34,7 @@ ul {
   margin-right: 15%;
 }
 
-#beneficios{
+#beneficios {
   width: 50%;
 }
 
