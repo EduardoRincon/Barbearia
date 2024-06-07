@@ -1,4 +1,4 @@
-.titulo-principal{
+titulo-principal{
   padding-left: 30px;
 }
 
@@ -20,7 +20,7 @@ p {
 }
 
 em strong{
-  color: crimson;
+  color: deeppink;
 }
 
 #banner{
